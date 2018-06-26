@@ -1,0 +1,14 @@
+/**
+ * Created by Ivaylo on 5/25/2018.
+ */
+try {
+    throw new RangeError("Invalid range.");
+    console.log("This will not be executed.");
+} catch (ex) {
+    console.log("---------------");
+    console.log("Exception object: " + ex);
+    console.log("Type: " + ex.name);
+    console.log("Message: " + ex.message);
+    console.log("Stack: " + ex.stack);
+    console.log("---------------");
+}
