@@ -23,7 +23,7 @@ let x = (function () {
             return this._id;
         }
     }
-    return {Extensible}
+    return Extensible
 })();
 
 let ex = new x.Extensible();
