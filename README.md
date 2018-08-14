@@ -3,10 +3,10 @@ SoftUni JavaScript Advanced course, part of JS Core Module
 
 ## Course Objectives
 ### **_The JavaScript Advanced course provides:_**
-------
-### - Advanced coding skills for the JS language
-### - Extends the JS Fundamentals course
-### - Covers DOM, advanced functions, IIFE, object composition, unit testing, classes and inheritance, modules, transpilers, exceptions, generators, iterators
+
+ - Advanced coding skills for the JS language
+ - Extends the JS Fundamentals course
+ - Covers DOM, advanced functions, IIFE, object composition, unit testing, classes and inheritance, modules, transpilers, exceptions, generators, iterators
 
 
 ## Course Topics
