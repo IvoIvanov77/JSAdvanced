@@ -18,3 +18,7 @@ SoftUni JavaScript Advanced course, part of JS Core Module
  - Classes and Members
  - Class Inheritance and Prototype Chain
  - Modules, Babel Transpiler, CommonJS
+ 
+ ## Certificate:
+
+![56180](https://user-images.githubusercontent.com/16088420/44111028-0224cd0e-a00a-11e8-8977-2f77ba701d59.jpg)
