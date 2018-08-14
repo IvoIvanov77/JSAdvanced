@@ -1,4 +1,4 @@
-## [JS Advanced - May 2018](https://softuni.bg/trainings/1969/js-advanced-june-2018)
+## [JS Advanced - June 2018](https://softuni.bg/trainings/1969/js-advanced-june-2018)
 SoftUni JavaScript Advanced course, part of JS Core Module
 
 ## Course Objectives
